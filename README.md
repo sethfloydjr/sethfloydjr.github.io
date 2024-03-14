@@ -6,7 +6,7 @@
 * McDonough, GA
 * Have lived all my life in Georgia
 
-### How did you end up as and SRE?
+### How did you end up as an SRE?
 
 * I went to school at Georgia Southern University where I studied Hotel and Restaurant Management
 * After school I worked at a few restaurants and hotels around Atlanta and quickly realized that career and having a family did not mesh well.
